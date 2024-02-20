@@ -44,20 +44,20 @@ img {
 section {
 	clear: both;
 }
-figcaprion {
+figcaption {
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 30px;
 	color: hsl(50, 80%, 30%);
 	padding: 5px;
 }
 a {
-	color: purple;
+	color: green;
 }
 a:hover {
 	color: red;
 }
 li {
-	list-style: none;
+	list-style: square;
 	line-height: 30px;
 }
 header, footer {
